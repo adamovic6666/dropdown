@@ -61,10 +61,18 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 
 Just add a link to the css file in your <head>:
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/adamovic6666/dropdown@main/dropdown.css"/>
   
+````
+```
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/adamovic6666/dropdown@main/dropdown.css"/>
+```
+````
 Then, before your closing <body> tag add:
+````
+```
 <script type="text/javascript" src='https://cdn.jsdelivr.net/gh/adamovic6666/dropdown@main/dropdown1.js'></script>
+```
+````
 
 <!-- EXAMPLES -->
 ## Examples
