@@ -1,4 +1,4 @@
- class Dropdown {
+ export default class Dropdown {
       constructor(el, initalValues, values) {
         this.el = el;
         this.values = values;
