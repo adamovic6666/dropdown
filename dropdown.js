@@ -32,7 +32,7 @@
         holder.style.cursor = "pointer";
         dropdown.style.position = "absolute";
         dropdown.style.left = "0";
-        dropdown.style.top = "25px";
+        dropdown.style.top = "40px";
       };
 
       // toggle active class
